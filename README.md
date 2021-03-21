@@ -25,3 +25,5 @@ Here's some images of the PCB in an editor and a 3d viewer
 ![3dPCB_Back](https://user-images.githubusercontent.com/23375399/111918109-d4c59700-8a83-11eb-9f9e-89501dd7de9a.png)
 
 
+MIT License
+Copyright (c) 2021 MRS
