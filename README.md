@@ -9,18 +9,18 @@ This keyboard is specifically made to be mirrored so you dont have to have 2 dif
 
 Here's some images of the PCB in an editor and a 3d viewer
 
-#####Editor:
+###Editor:
 ---
 ![pcb](https://user-images.githubusercontent.com/23375399/111918071-a051db00-8a83-11eb-981b-d19b8890cb0d.png) 
 
 
-#####3D viewer - Front and Back:
+##3D viewer - Front and Back:
 
-######Front:
+#Front:
 ---
 ![3dPCB](https://user-images.githubusercontent.com/23375399/111918081-af388d80-8a83-11eb-95f4-e8c8caaa9b67.png)
 
-######Back:
+##Back:
 ---
 ![3dPCB_Back](https://user-images.githubusercontent.com/23375399/111918109-d4c59700-8a83-11eb-9f9e-89501dd7de9a.png)
 
