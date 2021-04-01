@@ -1,0 +1,1129 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 5
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E26B
+P 3550 1800
+F 0 "D?" H 3894 1846 50  0000 L CNN
+F 1 "SK6812" H 3894 1755 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 3600 1500 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 3650 1425 50  0001 L TNN
+	1    3550 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E271
+P 5000 1800
+F 0 "D?" H 5344 1846 50  0000 L CNN
+F 1 "SK6812" H 5344 1755 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 5050 1500 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 5100 1425 50  0001 L TNN
+	1    5000 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E27B
+P 2150 1800
+F 0 "D?" H 2494 1846 50  0000 L CNN
+F 1 "SK6812" H 2494 1755 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 2200 1500 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 2250 1425 50  0001 L TNN
+	1    2150 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E281
+P 9300 1800
+F 0 "D?" H 9644 1846 50  0000 L CNN
+F 1 "SK6812" H 9644 1755 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 9350 1500 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 9400 1425 50  0001 L TNN
+	1    9300 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E287
+P 2150 3150
+F 0 "D?" H 2494 3196 50  0000 L CNN
+F 1 "SK6812" H 2494 3105 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 2200 2850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 2250 2775 50  0001 L TNN
+	1    2150 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E28D
+P 3550 3150
+F 0 "D?" H 3894 3196 50  0000 L CNN
+F 1 "SK6812" H 3894 3105 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 3600 2850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 3650 2775 50  0001 L TNN
+	1    3550 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E293
+P 7900 1800
+F 0 "D?" H 8244 1846 50  0000 L CNN
+F 1 "SK6812" H 8244 1755 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 7950 1500 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 8000 1425 50  0001 L TNN
+	1    7900 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E299
+P 6400 3150
+F 0 "D?" H 6744 3196 50  0000 L CNN
+F 1 "SK6812" H 6744 3105 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 6450 2850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 6500 2775 50  0001 L TNN
+	1    6400 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E29F
+P 7850 3150
+F 0 "D?" H 8194 3196 50  0000 L CNN
+F 1 "SK6812" H 8194 3105 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 7900 2850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 7950 2775 50  0001 L TNN
+	1    7850 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E2A5
+P 9250 3150
+F 0 "D?" H 9594 3196 50  0000 L CNN
+F 1 "SK6812" H 9594 3105 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 9300 2850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 9350 2775 50  0001 L TNN
+	1    9250 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E2AB
+P 5000 3150
+F 0 "D?" H 5344 3196 50  0000 L CNN
+F 1 "SK6812" H 5344 3105 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 5050 2850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 5100 2775 50  0001 L TNN
+	1    5000 3150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2450 1800 3250 1800
+Wire Wire Line
+	3850 1800 4700 1800
+Wire Wire Line
+	5300 1800 6100 1800
+Wire Wire Line
+	8200 1800 9000 1800
+Wire Wire Line
+	2450 3150 3250 3150
+Wire Wire Line
+	5300 3150 6100 3150
+Wire Wire Line
+	6700 3150 7550 3150
+Wire Wire Line
+	8150 3150 8950 3150
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E2BF
+P 6400 1800
+F 0 "D?" H 6744 1846 50  0000 L CNN
+F 1 "SK6812" H 6744 1755 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 6450 1500 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 6500 1425 50  0001 L TNN
+	1    6400 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR?
+U 1 1 6063E2C5
+P 2150 3500
+F 0 "#PWR?" H 2150 3250 50  0001 C CNN
+F 1 "Earth" H 2150 3350 50  0001 C CNN
+F 2 "" H 2150 3500 50  0001 C CNN
+F 3 "~" H 2150 3500 50  0001 C CNN
+	1    2150 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR?
+U 1 1 6063E2CB
+P 9300 2150
+F 0 "#PWR?" H 9300 1900 50  0001 C CNN
+F 1 "Earth" H 9300 2000 50  0001 C CNN
+F 2 "" H 9300 2150 50  0001 C CNN
+F 3 "~" H 9300 2150 50  0001 C CNN
+	1    9300 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR?
+U 1 1 6063E2D1
+P 7900 2150
+F 0 "#PWR?" H 7900 1900 50  0001 C CNN
+F 1 "Earth" H 7900 2000 50  0001 C CNN
+F 2 "" H 7900 2150 50  0001 C CNN
+F 3 "~" H 7900 2150 50  0001 C CNN
+	1    7900 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR?
+U 1 1 6063E2D7
+P 2150 2150
+F 0 "#PWR?" H 2150 1900 50  0001 C CNN
+F 1 "Earth" H 2150 2000 50  0001 C CNN
+F 2 "" H 2150 2150 50  0001 C CNN
+F 3 "~" H 2150 2150 50  0001 C CNN
+	1    2150 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR?
+U 1 1 6063E2DD
+P 3550 2150
+F 0 "#PWR?" H 3550 1900 50  0001 C CNN
+F 1 "Earth" H 3550 2000 50  0001 C CNN
+F 2 "" H 3550 2150 50  0001 C CNN
+F 3 "~" H 3550 2150 50  0001 C CNN
+	1    3550 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR?
+U 1 1 6063E2E3
+P 5000 2150
+F 0 "#PWR?" H 5000 1900 50  0001 C CNN
+F 1 "Earth" H 5000 2000 50  0001 C CNN
+F 2 "" H 5000 2150 50  0001 C CNN
+F 3 "~" H 5000 2150 50  0001 C CNN
+	1    5000 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR?
+U 1 1 6063E2E9
+P 6400 2150
+F 0 "#PWR?" H 6400 1900 50  0001 C CNN
+F 1 "Earth" H 6400 2000 50  0001 C CNN
+F 2 "" H 6400 2150 50  0001 C CNN
+F 3 "~" H 6400 2150 50  0001 C CNN
+	1    6400 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR?
+U 1 1 6063E2F5
+P 6400 3500
+F 0 "#PWR?" H 6400 3250 50  0001 C CNN
+F 1 "Earth" H 6400 3350 50  0001 C CNN
+F 2 "" H 6400 3500 50  0001 C CNN
+F 3 "~" H 6400 3500 50  0001 C CNN
+	1    6400 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR?
+U 1 1 6063E2FB
+P 7850 3500
+F 0 "#PWR?" H 7850 3250 50  0001 C CNN
+F 1 "Earth" H 7850 3350 50  0001 C CNN
+F 2 "" H 7850 3500 50  0001 C CNN
+F 3 "~" H 7850 3500 50  0001 C CNN
+	1    7850 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR?
+U 1 1 6063E301
+P 9250 3500
+F 0 "#PWR?" H 9250 3250 50  0001 C CNN
+F 1 "Earth" H 9250 3350 50  0001 C CNN
+F 2 "" H 9250 3500 50  0001 C CNN
+F 3 "~" H 9250 3500 50  0001 C CNN
+	1    9250 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E307
+P 3550 4500
+F 0 "D?" H 3894 4546 50  0000 L CNN
+F 1 "SK6812" H 3894 4455 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 3600 4200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 3650 4125 50  0001 L TNN
+	1    3550 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E30D
+P 5000 4500
+F 0 "D?" H 5344 4546 50  0000 L CNN
+F 1 "SK6812" H 5344 4455 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 5050 4200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 5100 4125 50  0001 L TNN
+	1    5000 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E313
+P 6400 4500
+F 0 "D?" H 6744 4546 50  0000 L CNN
+F 1 "SK6812" H 6744 4455 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 6450 4200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 6500 4125 50  0001 L TNN
+	1    6400 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 6063E319
+P 2150 4500
+F 0 "D?" H 2494 4546 50  0000 L CNN
+F 1 "SK6812" H 2494 4455 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 2200 4200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 2250 4125 50  0001 L TNN
+	1    2150 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1650 4500 1850 4500
+Wire Wire Line
+	2450 4500 3250 4500
+Wire Wire Line
+	3850 4500 4700 4500
+Wire Wire Line
+	5300 4500 6100 4500
+$Comp
+L power:Earth #PWR?
+U 1 1 6063E323
+P 2150 4850
+F 0 "#PWR?" H 2150 4600 50  0001 C CNN
+F 1 "Earth" H 2150 4700 50  0001 C CNN
+F 2 "" H 2150 4850 50  0001 C CNN
+F 3 "~" H 2150 4850 50  0001 C CNN
+	1    2150 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR?
+U 1 1 6063E329
+P 3550 4850
+F 0 "#PWR?" H 3550 4600 50  0001 C CNN
+F 1 "Earth" H 3550 4700 50  0001 C CNN
+F 2 "" H 3550 4850 50  0001 C CNN
+F 3 "~" H 3550 4850 50  0001 C CNN
+	1    3550 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR?
+U 1 1 6063E32F
+P 5000 4850
+F 0 "#PWR?" H 5000 4600 50  0001 C CNN
+F 1 "Earth" H 5000 4700 50  0001 C CNN
+F 2 "" H 5000 4850 50  0001 C CNN
+F 3 "~" H 5000 4850 50  0001 C CNN
+	1    5000 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR?
+U 1 1 6063E335
+P 6400 4850
+F 0 "#PWR?" H 6400 4600 50  0001 C CNN
+F 1 "Earth" H 6400 4700 50  0001 C CNN
+F 2 "" H 6400 4850 50  0001 C CNN
+F 3 "~" H 6400 4850 50  0001 C CNN
+	1    6400 4850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2150 4800 2150 4850
+Wire Wire Line
+	2150 4800 2400 4800
+Wire Wire Line
+	2400 4800 2400 4200
+Wire Wire Line
+	2400 4200 2150 4200
+Connection ~ 2150 4800
+$Comp
+L Device:C_Small C?
+U 1 1 6063E34F
+P 2150 4050
+F 0 "C?" H 2242 4096 50  0000 L CNN
+F 1 "C_Small" H 2242 4005 50  0000 L CNN
+F 2 "" H 2150 4050 50  0001 C CNN
+F 3 "~" H 2150 4050 50  0001 C CNN
+	1    2150 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2150 4150 2150 4200
+Connection ~ 2150 4200
+$Comp
+L power:Earth #PWR?
+U 1 1 6063E358
+P 3550 3500
+F 0 "#PWR?" H 3550 3250 50  0001 C CNN
+F 1 "Earth" H 3550 3350 50  0001 C CNN
+F 2 "" H 3550 3500 50  0001 C CNN
+F 3 "~" H 3550 3500 50  0001 C CNN
+	1    3550 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2150 2150 2150 2100
+Wire Wire Line
+	3550 2150 3550 2100
+Wire Wire Line
+	5000 2150 5000 2100
+Wire Wire Line
+	6400 2150 6400 2100
+Wire Wire Line
+	3550 3500 3550 3450
+Wire Wire Line
+	2150 3500 2150 3450
+Wire Wire Line
+	9300 2150 9300 2100
+Wire Wire Line
+	7900 2150 7900 2100
+Wire Wire Line
+	5000 3500 5000 3450
+Wire Wire Line
+	6400 3500 6400 3450
+Wire Wire Line
+	7850 3500 7850 3450
+Wire Wire Line
+	9250 3500 9250 3450
+$Comp
+L Device:C_Small C?
+U 1 1 6063E36E
+P 2150 1350
+F 0 "C?" H 2242 1396 50  0000 L CNN
+F 1 "C_Small" H 2242 1305 50  0000 L CNN
+F 2 "" H 2150 1350 50  0001 C CNN
+F 3 "~" H 2150 1350 50  0001 C CNN
+	1    2150 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 6063E376
+P 3550 1350
+F 0 "C?" H 3642 1396 50  0000 L CNN
+F 1 "C_Small" H 3642 1305 50  0000 L CNN
+F 2 "" H 3550 1350 50  0001 C CNN
+F 3 "~" H 3550 1350 50  0001 C CNN
+	1    3550 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 6063E37D
+P 5000 1350
+F 0 "C?" H 5092 1396 50  0000 L CNN
+F 1 "C_Small" H 5092 1305 50  0000 L CNN
+F 2 "" H 5000 1350 50  0001 C CNN
+F 3 "~" H 5000 1350 50  0001 C CNN
+	1    5000 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 6063E383
+P 6400 1350
+F 0 "C?" H 6492 1396 50  0000 L CNN
+F 1 "C_Small" H 6492 1305 50  0000 L CNN
+F 2 "" H 6400 1350 50  0001 C CNN
+F 3 "~" H 6400 1350 50  0001 C CNN
+	1    6400 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 6063E38E
+P 7900 1350
+F 0 "C?" H 7992 1396 50  0000 L CNN
+F 1 "C_Small" H 7992 1305 50  0000 L CNN
+F 2 "" H 7900 1350 50  0001 C CNN
+F 3 "~" H 7900 1350 50  0001 C CNN
+	1    7900 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 6063E394
+P 9300 1350
+F 0 "C?" H 9392 1396 50  0000 L CNN
+F 1 "C_Small" H 9392 1305 50  0000 L CNN
+F 2 "" H 9300 1350 50  0001 C CNN
+F 3 "~" H 9300 1350 50  0001 C CNN
+	1    9300 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 6063E39A
+P 2150 2700
+F 0 "C?" H 2242 2746 50  0000 L CNN
+F 1 "C_Small" H 2242 2655 50  0000 L CNN
+F 2 "" H 2150 2700 50  0001 C CNN
+F 3 "~" H 2150 2700 50  0001 C CNN
+	1    2150 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 6063E3A0
+P 3550 2700
+F 0 "C?" H 3642 2746 50  0000 L CNN
+F 1 "C_Small" H 3642 2655 50  0000 L CNN
+F 2 "" H 3550 2700 50  0001 C CNN
+F 3 "~" H 3550 2700 50  0001 C CNN
+	1    3550 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 606E9EDB
+P 7850 4500
+F 0 "D?" H 8194 4546 50  0000 L CNN
+F 1 "SK6812" H 8194 4455 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 7900 4200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 7950 4125 50  0001 L TNN
+	1    7850 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812 D?
+U 1 1 606E9EE1
+P 9250 4500
+F 0 "D?" H 9594 4546 50  0000 L CNN
+F 1 "SK6812" H 9594 4455 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" H 9300 4200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" H 9350 4125 50  0001 L TNN
+	1    9250 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6700 4500 7550 4500
+Wire Wire Line
+	8150 4500 8950 4500
+$Comp
+L power:Earth #PWR?
+U 1 1 606E9EE9
+P 7850 4850
+F 0 "#PWR?" H 7850 4600 50  0001 C CNN
+F 1 "Earth" H 7850 4700 50  0001 C CNN
+F 2 "" H 7850 4850 50  0001 C CNN
+F 3 "~" H 7850 4850 50  0001 C CNN
+	1    7850 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR?
+U 1 1 606E9EEF
+P 9250 4850
+F 0 "#PWR?" H 9250 4600 50  0001 C CNN
+F 1 "Earth" H 9250 4700 50  0001 C CNN
+F 2 "" H 9250 4850 50  0001 C CNN
+F 3 "~" H 9250 4850 50  0001 C CNN
+	1    9250 4850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1650 4500 1650 3150
+Wire Wire Line
+	1650 3150 1850 3150
+Wire Wire Line
+	9550 3150 9750 3150
+Wire Wire Line
+	9750 3150 9750 1900
+Wire Wire Line
+	9750 1800 9600 1800
+Wire Wire Line
+	6700 1800 7600 1800
+Text HLabel 1450 1800 0    50   Input ~ 0
+mcu_pin
+Text HLabel 1350 5700 0    50   Input ~ 0
+VBUS_5V
+$Comp
+L power:+5V #PWR?
+U 1 1 6072AF4F
+P 1850 5600
+F 0 "#PWR?" H 1850 5450 50  0001 C CNN
+F 1 "+5V" H 1865 5773 50  0000 C CNN
+F 2 "" H 1850 5600 50  0001 C CNN
+F 3 "" H 1850 5600 50  0001 C CNN
+	1    1850 5600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1350 5700 1850 5700
+Wire Wire Line
+	1850 5700 1850 5600
+Wire Wire Line
+	3550 4850 3550 4800
+Wire Wire Line
+	3550 4200 3800 4200
+Wire Wire Line
+	3800 4200 3800 4800
+Wire Wire Line
+	3800 4800 3550 4800
+Connection ~ 3550 4800
+Wire Wire Line
+	3550 4200 3550 4150
+Connection ~ 3550 4200
+Wire Wire Line
+	5000 4850 5000 4800
+Wire Wire Line
+	6400 4850 6400 4800
+Wire Wire Line
+	7850 4850 7850 4800
+Wire Wire Line
+	9250 4850 9250 4800
+Wire Wire Line
+	2150 2800 2150 2850
+Wire Wire Line
+	3550 2850 3550 2800
+Wire Wire Line
+	3550 2800 3800 2800
+Wire Wire Line
+	3800 2800 3800 3450
+Wire Wire Line
+	3800 3450 3550 3450
+Connection ~ 3550 2800
+Connection ~ 3550 3450
+Wire Wire Line
+	2150 3450 2400 3450
+Wire Wire Line
+	2400 3450 2400 2800
+Wire Wire Line
+	2400 2800 2150 2800
+Connection ~ 2150 3450
+Connection ~ 2150 2800
+Wire Wire Line
+	2150 1500 2150 1450
+Wire Wire Line
+	3550 1500 3550 1450
+Wire Wire Line
+	5000 1500 5000 1450
+Wire Wire Line
+	6400 1500 6400 1450
+Wire Wire Line
+	7900 1450 7900 1500
+Wire Wire Line
+	9300 1450 9300 1500
+Wire Wire Line
+	9550 2100 9300 2100
+Connection ~ 9300 2100
+Wire Wire Line
+	7900 2100 8150 2100
+Wire Wire Line
+	8150 2100 8150 1500
+Connection ~ 7900 2100
+Wire Wire Line
+	6400 2100 6650 2100
+Wire Wire Line
+	6650 2100 6650 1500
+Connection ~ 6400 2100
+Wire Wire Line
+	5250 2100 5000 2100
+Connection ~ 5000 2100
+Wire Wire Line
+	3550 2100 3800 2100
+Connection ~ 3550 2100
+Wire Wire Line
+	3550 1500 3800 1500
+Connection ~ 3550 1500
+Wire Wire Line
+	3800 1500 3800 2100
+Wire Wire Line
+	2150 1500 2400 1500
+Wire Wire Line
+	2400 1500 2400 2100
+Wire Wire Line
+	2400 2100 2150 2100
+Connection ~ 2150 1500
+Connection ~ 2150 2100
+Wire Wire Line
+	7850 3450 8100 3450
+Wire Wire Line
+	8100 3450 8100 2850
+Wire Wire Line
+	8100 2850 7850 2850
+Connection ~ 7850 3450
+Wire Wire Line
+	6400 2850 6650 2850
+Wire Wire Line
+	6650 2850 6650 3450
+Wire Wire Line
+	6650 3450 6400 3450
+Connection ~ 6400 3450
+Wire Wire Line
+	5000 2850 5250 2850
+Wire Wire Line
+	5250 2850 5250 3450
+Wire Wire Line
+	5250 3450 5000 3450
+Connection ~ 5000 3450
+Wire Wire Line
+	3850 3150 4700 3150
+Wire Wire Line
+	9250 3450 9500 3450
+Wire Wire Line
+	9500 3450 9500 2850
+Wire Wire Line
+	9500 2850 9250 2850
+Connection ~ 9250 3450
+Wire Wire Line
+	9250 4800 9500 4800
+Wire Wire Line
+	9500 4800 9500 4200
+Wire Wire Line
+	9500 4200 9250 4200
+Connection ~ 9250 4800
+Wire Wire Line
+	7850 4200 8100 4200
+Wire Wire Line
+	8100 4200 8100 4800
+Wire Wire Line
+	8100 4800 7850 4800
+Connection ~ 7850 4800
+Wire Wire Line
+	6400 4800 6650 4800
+Wire Wire Line
+	6650 4800 6650 4200
+Wire Wire Line
+	6650 4200 6400 4200
+Connection ~ 6400 4800
+Wire Wire Line
+	5000 4200 5250 4200
+Wire Wire Line
+	5250 4200 5250 4800
+Wire Wire Line
+	5250 4800 5000 4800
+Connection ~ 5000 4800
+$Comp
+L Device:C_Small C?
+U 1 1 607AA13D
+P 5000 2700
+F 0 "C?" H 5092 2746 50  0000 L CNN
+F 1 "C_Small" H 5092 2655 50  0000 L CNN
+F 2 "" H 5000 2700 50  0001 C CNN
+F 3 "~" H 5000 2700 50  0001 C CNN
+	1    5000 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 607AB5E0
+P 6400 2700
+F 0 "C?" H 6492 2746 50  0000 L CNN
+F 1 "C_Small" H 6492 2655 50  0000 L CNN
+F 2 "" H 6400 2700 50  0001 C CNN
+F 3 "~" H 6400 2700 50  0001 C CNN
+	1    6400 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 607AE086
+P 7850 2700
+F 0 "C?" H 7942 2746 50  0000 L CNN
+F 1 "C_Small" H 7942 2655 50  0000 L CNN
+F 2 "" H 7850 2700 50  0001 C CNN
+F 3 "~" H 7850 2700 50  0001 C CNN
+	1    7850 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 607B3BD5
+P 3550 4050
+F 0 "C?" H 3642 4096 50  0000 L CNN
+F 1 "C_Small" H 3642 4005 50  0000 L CNN
+F 2 "" H 3550 4050 50  0001 C CNN
+F 3 "~" H 3550 4050 50  0001 C CNN
+	1    3550 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 607B7495
+P 5000 4050
+F 0 "C?" H 5092 4096 50  0000 L CNN
+F 1 "C_Small" H 5092 4005 50  0000 L CNN
+F 2 "" H 5000 4050 50  0001 C CNN
+F 3 "~" H 5000 4050 50  0001 C CNN
+	1    5000 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 607BAE48
+P 6400 4050
+F 0 "C?" H 6492 4096 50  0000 L CNN
+F 1 "C_Small" H 6492 4005 50  0000 L CNN
+F 2 "" H 6400 4050 50  0001 C CNN
+F 3 "~" H 6400 4050 50  0001 C CNN
+	1    6400 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 607BE910
+P 7850 4050
+F 0 "C?" H 7942 4096 50  0000 L CNN
+F 1 "C_Small" H 7942 4005 50  0000 L CNN
+F 2 "" H 7850 4050 50  0001 C CNN
+F 3 "~" H 7850 4050 50  0001 C CNN
+	1    7850 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 607C25BA
+P 9250 4050
+F 0 "C?" H 9342 4096 50  0000 L CNN
+F 1 "C_Small" H 9342 4005 50  0000 L CNN
+F 2 "" H 9250 4050 50  0001 C CNN
+F 3 "~" H 9250 4050 50  0001 C CNN
+	1    9250 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6400 4200 6400 4150
+Connection ~ 6400 4200
+Wire Wire Line
+	5000 4200 5000 4150
+Connection ~ 5000 4200
+Wire Wire Line
+	7850 4200 7850 4150
+Connection ~ 7850 4200
+Wire Wire Line
+	9250 4200 9250 4150
+Connection ~ 9250 4200
+Wire Wire Line
+	7850 2850 7850 2800
+Connection ~ 7850 2850
+Wire Wire Line
+	6400 2850 6400 2800
+Connection ~ 6400 2850
+Wire Wire Line
+	5000 2850 5000 2800
+Connection ~ 5000 2850
+Wire Wire Line
+	9250 2850 9250 2800
+Connection ~ 9250 2850
+$Comp
+L Device:C_Small C?
+U 1 1 607E9D38
+P 9250 2700
+F 0 "C?" H 9342 2746 50  0000 L CNN
+F 1 "C_Small" H 9342 2655 50  0000 L CNN
+F 2 "" H 9250 2700 50  0001 C CNN
+F 3 "~" H 9250 2700 50  0001 C CNN
+	1    9250 2700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 1500 5250 1500
+Connection ~ 5000 1500
+Wire Wire Line
+	5250 1500 5250 2100
+Wire Wire Line
+	6400 1500 6650 1500
+Connection ~ 6400 1500
+Wire Wire Line
+	7900 1500 8150 1500
+Connection ~ 7900 1500
+Wire Wire Line
+	9300 1500 9550 1500
+Connection ~ 9300 1500
+Wire Wire Line
+	9550 1500 9550 2100
+$Comp
+L power:+5V #PWR?
+U 1 1 60834A63
+P 7900 1100
+F 0 "#PWR?" H 7900 950 50  0001 C CNN
+F 1 "+5V" V 7915 1273 50  0000 C CNN
+F 2 "" H 7900 1100 50  0001 C CNN
+F 3 "" H 7900 1100 50  0001 C CNN
+	1    7900 1100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7900 1100 7900 1250
+$Comp
+L power:+5V #PWR?
+U 1 1 6083D937
+P 9250 2450
+F 0 "#PWR?" H 9250 2300 50  0001 C CNN
+F 1 "+5V" V 9265 2623 50  0000 C CNN
+F 2 "" H 9250 2450 50  0001 C CNN
+F 3 "" H 9250 2450 50  0001 C CNN
+	1    9250 2450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9250 2450 9250 2600
+$Comp
+L power:+5V #PWR?
+U 1 1 60883737
+P 6400 1100
+F 0 "#PWR?" H 6400 950 50  0001 C CNN
+F 1 "+5V" V 6415 1273 50  0000 C CNN
+F 2 "" H 6400 1100 50  0001 C CNN
+F 3 "" H 6400 1100 50  0001 C CNN
+	1    6400 1100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6400 1100 6400 1250
+$Comp
+L power:+5V #PWR?
+U 1 1 6088F16D
+P 5000 1100
+F 0 "#PWR?" H 5000 950 50  0001 C CNN
+F 1 "+5V" V 5015 1273 50  0000 C CNN
+F 2 "" H 5000 1100 50  0001 C CNN
+F 3 "" H 5000 1100 50  0001 C CNN
+	1    5000 1100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 1100 5000 1250
+$Comp
+L power:+5V #PWR?
+U 1 1 6089A262
+P 3550 1100
+F 0 "#PWR?" H 3550 950 50  0001 C CNN
+F 1 "+5V" V 3565 1273 50  0000 C CNN
+F 2 "" H 3550 1100 50  0001 C CNN
+F 3 "" H 3550 1100 50  0001 C CNN
+	1    3550 1100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3550 1100 3550 1250
+$Comp
+L power:+5V #PWR?
+U 1 1 608A6DEA
+P 2150 1100
+F 0 "#PWR?" H 2150 950 50  0001 C CNN
+F 1 "+5V" V 2165 1273 50  0000 C CNN
+F 2 "" H 2150 1100 50  0001 C CNN
+F 3 "" H 2150 1100 50  0001 C CNN
+	1    2150 1100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2150 1100 2150 1250
+$Comp
+L power:+5V #PWR?
+U 1 1 608B4C68
+P 9300 1100
+F 0 "#PWR?" H 9300 950 50  0001 C CNN
+F 1 "+5V" V 9315 1273 50  0000 C CNN
+F 2 "" H 9300 1100 50  0001 C CNN
+F 3 "" H 9300 1100 50  0001 C CNN
+	1    9300 1100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9300 1100 9300 1250
+$Comp
+L power:+5V #PWR?
+U 1 1 608BA2B6
+P 7850 2450
+F 0 "#PWR?" H 7850 2300 50  0001 C CNN
+F 1 "+5V" V 7865 2623 50  0000 C CNN
+F 2 "" H 7850 2450 50  0001 C CNN
+F 3 "" H 7850 2450 50  0001 C CNN
+	1    7850 2450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7850 2450 7850 2600
+$Comp
+L power:+5V #PWR?
+U 1 1 608BE9EE
+P 6400 2450
+F 0 "#PWR?" H 6400 2300 50  0001 C CNN
+F 1 "+5V" V 6415 2623 50  0000 C CNN
+F 2 "" H 6400 2450 50  0001 C CNN
+F 3 "" H 6400 2450 50  0001 C CNN
+	1    6400 2450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6400 2450 6400 2600
+$Comp
+L power:+5V #PWR?
+U 1 1 608C4D29
+P 5000 2450
+F 0 "#PWR?" H 5000 2300 50  0001 C CNN
+F 1 "+5V" V 5015 2623 50  0000 C CNN
+F 2 "" H 5000 2450 50  0001 C CNN
+F 3 "" H 5000 2450 50  0001 C CNN
+	1    5000 2450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 2450 5000 2600
+$Comp
+L power:+5V #PWR?
+U 1 1 608CAB97
+P 3550 2450
+F 0 "#PWR?" H 3550 2300 50  0001 C CNN
+F 1 "+5V" V 3565 2623 50  0000 C CNN
+F 2 "" H 3550 2450 50  0001 C CNN
+F 3 "" H 3550 2450 50  0001 C CNN
+	1    3550 2450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3550 2450 3550 2600
+$Comp
+L power:+5V #PWR?
+U 1 1 608D0748
+P 2150 2450
+F 0 "#PWR?" H 2150 2300 50  0001 C CNN
+F 1 "+5V" V 2165 2623 50  0000 C CNN
+F 2 "" H 2150 2450 50  0001 C CNN
+F 3 "" H 2150 2450 50  0001 C CNN
+	1    2150 2450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2150 2450 2150 2600
+$Comp
+L power:+5V #PWR?
+U 1 1 608D694C
+P 2150 3800
+F 0 "#PWR?" H 2150 3650 50  0001 C CNN
+F 1 "+5V" V 2165 3973 50  0000 C CNN
+F 2 "" H 2150 3800 50  0001 C CNN
+F 3 "" H 2150 3800 50  0001 C CNN
+	1    2150 3800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2150 3800 2150 3950
+$Comp
+L power:+5V #PWR?
+U 1 1 608DC7E4
+P 3550 3800
+F 0 "#PWR?" H 3550 3650 50  0001 C CNN
+F 1 "+5V" V 3565 3973 50  0000 C CNN
+F 2 "" H 3550 3800 50  0001 C CNN
+F 3 "" H 3550 3800 50  0001 C CNN
+	1    3550 3800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3550 3800 3550 3950
+$Comp
+L power:+5V #PWR?
+U 1 1 608E2B10
+P 5000 3800
+F 0 "#PWR?" H 5000 3650 50  0001 C CNN
+F 1 "+5V" V 5015 3973 50  0000 C CNN
+F 2 "" H 5000 3800 50  0001 C CNN
+F 3 "" H 5000 3800 50  0001 C CNN
+	1    5000 3800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 3800 5000 3950
+$Comp
+L power:+5V #PWR?
+U 1 1 608E9274
+P 6400 3800
+F 0 "#PWR?" H 6400 3650 50  0001 C CNN
+F 1 "+5V" V 6415 3973 50  0000 C CNN
+F 2 "" H 6400 3800 50  0001 C CNN
+F 3 "" H 6400 3800 50  0001 C CNN
+	1    6400 3800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6400 3800 6400 3950
+$Comp
+L power:+5V #PWR?
+U 1 1 608F4E8E
+P 7850 3800
+F 0 "#PWR?" H 7850 3650 50  0001 C CNN
+F 1 "+5V" V 7865 3973 50  0000 C CNN
+F 2 "" H 7850 3800 50  0001 C CNN
+F 3 "" H 7850 3800 50  0001 C CNN
+	1    7850 3800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7850 3800 7850 3950
+$Comp
+L power:+5V #PWR?
+U 1 1 608FB51D
+P 9250 3800
+F 0 "#PWR?" H 9250 3650 50  0001 C CNN
+F 1 "+5V" V 9265 3973 50  0000 C CNN
+F 2 "" H 9250 3800 50  0001 C CNN
+F 3 "" H 9250 3800 50  0001 C CNN
+	1    9250 3800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9250 3800 9250 3950
+$Comp
+L power:Earth #PWR?
+U 1 1 60907593
+P 1850 5950
+F 0 "#PWR?" H 1850 5700 50  0001 C CNN
+F 1 "Earth" H 1850 5800 50  0001 C CNN
+F 2 "" H 1850 5950 50  0001 C CNN
+F 3 "~" H 1850 5950 50  0001 C CNN
+	1    1850 5950
+	1    0    0    -1  
+$EndComp
+Text HLabel 1350 5850 0    50   Input ~ 0
+GND
+Wire Wire Line
+	1350 5850 1850 5850
+Wire Wire Line
+	1850 5850 1850 5950
+Wire Wire Line
+	1450 1800 1850 1800
+$EndSCHEMATC
