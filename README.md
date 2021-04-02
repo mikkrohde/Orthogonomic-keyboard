@@ -1,4 +1,4 @@
-# Orthogonomic keyboard by MRS
+# Orthogonomic by MRS
 This is a custom split keyboard, designed from scratch to learn how to design PCB's. 
 
 I have always had a very big interest for circuits and thought this kind of project is a good way to learn how PCB design and manufactoring works. Since im still new at this there might be some small errors here and there. Daily i'm a Software Engineering student and thats the reason i chose to do a small project where i could challenge myself and learn som new stuff about electroengineering.
